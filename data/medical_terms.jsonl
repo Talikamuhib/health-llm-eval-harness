@@ -1,0 +1,2 @@
+{"prompt": "What does BMI stand for?", "expected": "Body Mass Index", "metadata": {"category": "terminology"}}
+{"prompt": "What is the medical term for high blood pressure?", "expected": "hypertension", "metadata": {"category": "terminology"}}
